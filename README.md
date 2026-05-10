@@ -1,18 +1,34 @@
-# React + Vite
+🎯 QuizApp
+QuizApp is a ReactJS-based web application that allows users to take assessments by solving multiple-choice questions (MCQs). 
+The application ensures a seamless and interactive quiz experience with validations, dynamic scoring, and a final result display.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+✅ Interactive quiz experience
+✅ Multiple-choice questions (MCQs)
+✅ Option selection validation
+✅ Dynamic score calculation
+✅ Final score display
+✅ Smooth and user-friendly interface
 
-Currently, two official plugins are available:
+🚀 How It Works
+1. Start the Quiz
+The quiz begins with the first question displayed on the screen.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+2. Select an Option
+Users must select an option before moving to the next question.
+The Next button remains disabled until an option is selected.
+Prevents skipping questions accidentally.
 
-## React Compiler
+4. Score Calculation
+The application dynamically updates the score based on correct answers using React state management.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+4. Final Result
+After answering all questions, the final score is displayed out of the total number of questions.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Technologies Used
+⚛️ ReactJS
+🎯 React Hooks (useState)
+🎨 CSS3
+📦 JavaScript (ES6)
 
 <img width="1920" height="1011" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/8c59dae7-d5b1-4cac-969c-28107efb8015" />
