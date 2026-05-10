@@ -32,3 +32,7 @@ After answering all questions, the final score is displayed out of the total num
 📦 JavaScript (ES6)
 
 <img width="1920" height="1011" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/8c59dae7-d5b1-4cac-969c-28107efb8015" />
+
+
+<img width="1909" height="997" alt="image" src="https://github.com/user-attachments/assets/d3a9763e-4e87-486a-8747-bca30bcf1b93" />
+
