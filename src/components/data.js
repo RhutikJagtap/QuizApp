@@ -1,0 +1,73 @@
+//Array of objects
+export const data = [
+  {
+    Question: "What is React?",
+    Option1: "React is frontend framework",
+    Option2: "React is programming language",
+    Option3: "React is a library for building user interfaces",
+    Option4: "React is DBMS",
+  },
+  {
+    Question: "Who developed React?",
+    Option1: "Google",
+    Option2: "Facebook",
+    Option3: "Microsoft",
+    Option4: "Apple",
+  },
+  {
+    Question: "Which hook is used for state management in React?",
+    Option1: "useFetch",
+    Option2: "useEffect",
+    Option3: "useState",
+    Option4: "useRouter",
+  },
+  {
+    Question: "What is JSX?",
+    Option1: "Java Syntax Extension",
+    Option2: "JavaScript XML",
+    Option3: "JSON XML",
+    Option4: "Java Extension",
+  },
+  {
+    Question: "Which method is used to render React content to the DOM?",
+    Option1: "ReactDOM.render()",
+    Option2: "renderDOM()",
+    Option3: "display()",
+    Option4: "mount()",
+  },
+  {
+    Question: "What is the purpose of useEffect hook?",
+    Option1: "To create components",
+    Option2: "To manage side effects",
+    Option3: "To style components",
+    Option4: "To route pages",
+  },
+  {
+    Question: "Which symbol is used to embed JavaScript in JSX?",
+    Option1: "()",
+    Option2: "[]",
+    Option3: "{}",
+    Option4: "<>",
+  },
+  {
+    Question: "What is a React component?",
+    Option1: "A database table",
+    Option2: "Reusable piece of UI",
+    Option3: "CSS framework",
+    Option4: "API service",
+  },
+  {
+    Question: "What does props stand for in React?",
+    Option1: "Properties",
+    Option2: "Protocols",
+    Option3: "Programs",
+    Option4: "Processes",
+  },
+  {
+    Question: "Which company maintains React now?",
+    Option1: "Netflix",
+    Option2: "Meta",
+    Option3: "Amazon",
+    Option4: "Twitter",
+  },
+];
